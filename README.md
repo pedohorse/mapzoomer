@@ -7,7 +7,7 @@ simple asset that (ab)uses googlemaps to fetch multiple zoom levels of tiles to 
 
 and a special version for 5p3tial children:
 
-![imgur](https://im.ezgif.com/tmp/ezgif-1-7bd427d0f8.gif)
+![imgur](https://i.imgur.com/r5OKBHq.gif)
 
 ## WARNING !
 creating high resolution maps will take potentially a LOT of time and can result in a ban of your IP at google maps for 24 hours... (auto proxies will probably help download maps though, but anyway)
