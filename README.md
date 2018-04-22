@@ -22,6 +22,8 @@ a number of houdini hdas that allow superzoom to specific coordinates of the map
 
 ![imgur](https://i.imgur.com/KQXpRyZ.gif)
 
+![imgur](https://i.imgur.com/XY21yUC.gif)
+
 and a special version for 5p3tial children:
 
 ![imgur](https://i.imgur.com/r5OKBHq.gif)
