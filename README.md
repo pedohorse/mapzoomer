@@ -1,9 +1,28 @@
 # mapzoomer
-houdini hda that allows superzoom to specific coordinates
+a number of houdini hdas that allow superzoom to specific coordinates of the map
 
-simple asset that (ab)uses googlemaps to fetch multiple zoom levels of tiles to some specific location
+* map generator:
+  
+  A simple asset that (ab)uses googlemaps to fetch multiple zoom levels of tiles to some specific location
+
+  Multiple points can be selected by uv or by map coordinates to generate detailed texture for
+
+  You can put in your own geometry to for a map
+
+* map generator texture sampler:
+
+  A vop node will output the map texture sample, should be used to build your proper earth/ground shader
+
+* map generator camera curve
+
+  A simple asset that helps you append a given curve to end up exactly at map's zoom location, and produces proper looking path animation to be used for camera
+
+
+### Examples:
 
 ![imgur](https://i.imgur.com/KQXpRyZ.gif)
+
+![imgur](https://i.imgur.com/XY21yUC.gif)
 
 and a special version for 5p3tial children:
 
