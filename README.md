@@ -29,7 +29,14 @@ and a special version for 5p3tial children:
 ![imgur](https://i.imgur.com/r5OKBHq.gif)
 
 ## WARNING !
-creating high resolution maps will take potentially a LOT of time and can result in a ban of your IP at google maps for 24 hours... (auto proxies will probably help download maps though, but anyway)
+**OPEN HIP FILES IN MAUNAL MODE !!**
+
+Creating high resolution maps will take potentially a LOT of time and can result in a ban of your IP at google maps for 24 hours... (auto proxies will probably help download maps though, but anyway)
+
+* In examples the point zoom level is set to 20, that is super high, consider changing it to something like 8-9 as a start for tests. 
+
+* Also keep in mind that the zoomsize is stated in **uv** units, so if you accidently set your zoomsize to something like default 0.01 with zoomlevel 20 - that will cause the generation of impossibly huge map texture (about 5000000x5000000 pixels), and will probably just fail due to lack of memory.
+
 
 See example scene for example. But **BEWARE** for it will start downloading highres maps through proxies, that can take potentially up to 30 min
 
